@@ -1,6 +1,6 @@
 # NFL_betting_algorithm
 
-##**This is an ongoing development
+## **This is an ongoing development
 
 
 ## Description
